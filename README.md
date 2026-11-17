@@ -30,6 +30,16 @@ A reproducible analytics project built with **Python, SQL, SQLite and Power BI p
 
 > Screenshots captured in Power BI Desktop using entirely synthetic LMS data. The two-page report has been opened and visually verified (November 2026).
 
+### 🎓 Interactive SCORM Course — De los datos a las decisiones
+
+**Instructional Design · HTML5 · CSS · JavaScript · SCORM 1.2**
+
+Interactive Spanish-language microcourse on learning analytics: three lessons, worked examples, formative exercises, and a five-question final assessment. Progress and completion are designed for SCORM 1.2, with a browser demonstration mode.
+
+**[Explore course repository](https://github.com/merbyn-gomez/interactive-scorm-course)** · **[Download a test-built SCORM package](https://github.com/merbyn-gomez/interactive-scorm-course/actions)**
+
+> All data is fictional. LMS-specific interoperability still requires testing in Moodle or Blackboard.
+
 ### ⚙️ Excel Automation Toolkit
 **Python · xlwings · Excel automation**
 

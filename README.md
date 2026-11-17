@@ -17,13 +17,18 @@ I connect **data engineering and business intelligence** with **educational tech
 ## Featured public projects
 
 ### 🎓 Learning Analytics Portfolio
-<a href="https://github.com/merbyn-gomez/learning-analytics-portfolio"><img src="https://raw.githubusercontent.com/merbyn-gomez/learning-analytics-portfolio/main/assets/learning-analytics-overview.svg" alt="Learning Analytics — Synthetic LMS portfolio visualization" width="100%"></a>
+<a href="https://github.com/merbyn-gomez/learning-analytics-portfolio"><img src="https://raw.githubusercontent.com/merbyn-gomez/learning-analytics-portfolio/main/assets/learning-analytics-overview-desktop.png" alt="Learning Analytics Executive Overview dashboard in Power BI Desktop" width="100%"></a>
+
+<details>
+  <summary>See Learning Performance dashboard</summary>
+  <p align="center"><img src="https://raw.githubusercontent.com/merbyn-gomez/learning-analytics-portfolio/main/assets/learning-performance-desktop.png" alt="Learning Performance dashboard in Power BI Desktop" width="100%"></p>
+</details>
 
 A reproducible analytics project built with **Python, SQL, SQLite and Power BI project source (PBIP)**. It models synthetic LMS data, defines educational KPIs, and includes an HTML dashboard and automated Python tests.
 
 **[Explore repository](https://github.com/merbyn-gomez/learning-analytics-portfolio)** · **[Power BI source](https://github.com/merbyn-gomez/learning-analytics-portfolio/tree/main/powerbi)** · **[CI tests](https://github.com/merbyn-gomez/learning-analytics-portfolio/actions)**
 
-> Portfolio data is entirely synthetic. The illustration is generated from the synthetic data snapshot; it is **not a Power BI Desktop screenshot**. Power BI source requires desktop validation.
+> Screenshots captured in Power BI Desktop using entirely synthetic LMS data. The two-page report has been opened and visually verified (November 2026).
 
 ### ⚙️ Excel Automation Toolkit
 **Python · xlwings · Excel automation**

@@ -34,11 +34,21 @@ A reproducible analytics project built with **Python, SQL, SQLite and Power BI p
 
 **Instructional Design · HTML5 · CSS · JavaScript · SCORM 1.2**
 
-Interactive Spanish-language microcourse on learning analytics: three lessons, worked examples, formative exercises, and a five-question final assessment. Progress and completion are designed for SCORM 1.2, with a browser demonstration mode.
+A live, Spanish-language interactive microcourse on learning analytics with three lessons, formative feedback, and a five-question final assessment. The course supports browser-based progress persistence and is packaged for SCORM 1.2.
 
-**[Explore course repository](https://github.com/merbyn-gomez/interactive-scorm-course)** · **[Download a test-built SCORM package](https://github.com/merbyn-gomez/interactive-scorm-course/actions)**
+<a href="https://merbyn-gomez.github.io/interactive-scorm-course/"><img src="https://raw.githubusercontent.com/merbyn-gomez/interactive-scorm-course/main/assets/course-home.png" alt="Interactive SCORM microcourse welcome screen" width="100%"></a>
 
-> All data is fictional. LMS-specific interoperability still requires testing in Moodle or Blackboard.
+<details>
+  <summary><strong>See the lesson and assessment screenshots</strong></summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/merbyn-gomez/interactive-scorm-course/main/assets/course-lesson.png" alt="Learning analytics lesson with two sample course completion rates" width="100%">
+    <img src="https://raw.githubusercontent.com/merbyn-gomez/interactive-scorm-course/main/assets/course-final-score.png" alt="Interactive course demonstration assessment completed with a 100 percent score" width="100%">
+  </p>
+</details>
+
+**[Try the live course](https://merbyn-gomez.github.io/interactive-scorm-course/)** · **[Source repository](https://github.com/merbyn-gomez/interactive-scorm-course)** · **[SCORM package builds](https://github.com/merbyn-gomez/interactive-scorm-course/actions)**
+
+> Screenshots show the browser demonstration using fictional educational data. SCORM validation with a real Moodle or Blackboard LMS remains pending.
 
 ### ⚙️ Excel Automation Toolkit
 **Python · xlwings · Excel automation**
